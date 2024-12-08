@@ -70,6 +70,6 @@ Key features include:
 ---
 
 ## Demo
-A demonstration of the system is available here.[Link] (https://drive.google.com/file/d/1XT6Wd-wAtAIFTd2GLLyH0CjzCeVM1CY7/view?usp=sharing)
+A demonstration of the system is available here.Please sign in to the drive and then play the video with this link. [Link] (https://drive.google.com/file/d/1XT6Wd-wAtAIFTd2GLLyH0CjzCeVM1CY7/view?usp=sharing)
 
 
