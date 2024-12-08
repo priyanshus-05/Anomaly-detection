@@ -11,6 +11,13 @@ Key features include:
 
 ---
 
+## Anomaly Detection and Resource Allocation Workflow in 5G O-RAN
+
+![image](https://github.com/user-attachments/assets/2e7dd2d6-28c7-4eb1-9e33-792ed0329b1a)
+
+
+---
+
 ## Core Functionalities
 1. **Network Intrusion Detection**:
    Utilizes AI/ML models for real-time classification of normal and malicious activities in 5G networks.
